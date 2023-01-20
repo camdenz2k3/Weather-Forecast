@@ -9,7 +9,7 @@ SO THAT I can plan a trip accordingly
  This is a weather application with a 5 day forcast, search by city, powered by Openweather API. 
 
 ## Deployed site screenshot:
-![Screenshot](assest/images/Screenshot.png)
+![Screenshot](assets/images/Screenshot.png)
 
 ## Deployed link:
 https://camdenz2k3.github.io/Weather-Forecast/
