@@ -1,0 +1,67 @@
+header {
+    background-color: rgb(226, 100, 47);
+    padding: 25px;
+    text-align: center;
+    color: white;
+}
+
+#search {
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+
+}
+
+#input {
+    height: 50px;
+    width: 400px;
+    margin-left: 10px;
+}
+
+#search-city-button {
+    height: 50px;
+    width: 100px;
+    margin-left: 15px;
+    border-radius: 12px;
+    color: white;
+    background-color: rgb(48, 218, 172);
+}
+
+#search-history {
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
+
+#results {
+    display: block;
+    text-align: center;
+    line-height: 50px;
+    width: 80%;
+    height: 350px;
+    padding: 25px;
+    margin: auto;
+    border: black solid 4px;
+}
+
+#forecast{
+    font-size: 35px;
+    text-align: center;
+    margin: 15px;
+}
+
+#five-cards {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card {
+    margin: 10px;
+}
+
+.icons {
+    height: 50px;
+    width: 40px;
+}
